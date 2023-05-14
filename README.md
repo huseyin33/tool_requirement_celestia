@@ -3,6 +3,7 @@ To be able to use http://celestia-pfb-bloom.com/tool/ you have to run it
 
 ## Warning!!!
 ### Make sure you have git in your server!
+### Open your Ports `8080`
 
 # First step
 `git clone  https://github.com/huseyin33/tool_requirement_celestia`
