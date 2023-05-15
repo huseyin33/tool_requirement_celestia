@@ -1,7 +1,7 @@
 # tool_requirement_celestia
 To be able to use http://celestia-pfb-bloom.com/tool/ you have to run it.
 
-https://github.com/huseyin33/celestia-tool (User interface)
+https://github.com/huseyin33/celestia-tool (User interface-you can use it on your `localhost` )
 
 ## Warning!!!
 ### Make sure you have git in your server!
