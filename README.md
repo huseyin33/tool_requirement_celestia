@@ -1,5 +1,6 @@
 # tool_requirement_celestia
-To be able to use http://celestia-pfb-bloom.com/tool/ you have to run it
+To be able to use http://celestia-pfb-bloom.com/tool/ you have to run it.
+
 https://github.com/huseyin33/celestia-tool (User interface)
 
 ## Warning!!!
