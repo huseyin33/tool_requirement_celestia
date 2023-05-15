@@ -1,5 +1,6 @@
 # tool_requirement_celestia
 To be able to use http://celestia-pfb-bloom.com/tool/ you have to run it
+https://github.com/huseyin33/celestia-tool (User interface)
 
 ## Warning!!!
 ### Make sure you have git in your server!
@@ -21,11 +22,7 @@ To be able to use http://celestia-pfb-bloom.com/tool/ you have to run it
 https://github.com/huseyin33/tool_requirement_celestia/assets/72567591/a40432f9-417f-4579-aa38-18d03bac0728
 
 
-# Link;
 
-https://github.com/huseyin33/celestia-tool (User interface and others)
-
-http://celestia-pfb-bloom.com/
 ## Notes
 
 This version is still in beta. Unlike monitors like Grafana and Prometheus, you can track your nodes with your own interface.
