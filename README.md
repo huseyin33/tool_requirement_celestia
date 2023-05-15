@@ -23,7 +23,7 @@ https://github.com/huseyin33/tool_requirement_celestia/assets/72567591/a40432f9-
 
 # Link;
 
-https://github.com/huseyin33/celestia-tool(User interface and others)
+https://github.com/huseyin33/celestia-tool (User interface and others)
 
 http://celestia-pfb-bloom.com/
 ## Notes
