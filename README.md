@@ -34,9 +34,9 @@ It is currently in the beta stage. Many different plugins will be added.
 
 The titles of the information that will be updated in order are:
 
-Blocks
-PFBs
-Celestia Parameters
-Graphs
+# Blocks
+# PFBs
+#Celestia Parameters
+# Graphs
 
-Next update:Blocks
+# Next update:Blocks
