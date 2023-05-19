@@ -17,7 +17,7 @@ https://github.com/huseyin33/celestia-tool (User interface-you can use it on you
 `go mod tidy` to get the required packages
 
 # Fourth Step.
-`go run main.go` you need to leave it open while you are using website. If you Close it you will not be able to get any data.
+`go run main.go` you need to leave it open while you are using website. If you Close it you will not be able to get any data. You can run the command `screen -S tool` to keep it running continuously. After running the command, you can press CTRL+A+D to detach and leave it running in the background.
 
 ## You can watch the guide.
 https://github.com/huseyin33/tool_requirement_celestia/assets/72567591/a40432f9-417f-4579-aa38-18d03bac0728
